@@ -1,0 +1,81 @@
+{
+    "person": {
+        "role": "Insinyur Desain"
+    },
+    "newsletter": {
+        "title": "Langganan Buletin {firstName}",
+        "description": "Saya sesekali menulis tentang desain, teknologi, dan berbagi pemikiran tentang persimpangan kreativitas dan rekayasa",
+        "button": "Daftar"
+    },
+    "home": {
+        "label": "Beranda",
+        "title": "Portofolio {name}",
+        "description": "Situs web portofolio yang menampilkan karya saya sebagai {role}",
+        "headline": "Insinyur desain dan pembangun",
+        "subline": "Saya Jamer, seorang fans club sepak bola inggris yang terletak di kota Manchester, tim favoritku adalah Manchester United."
+    },
+    "about": {
+        "label": "Tentang",
+        "title": "Tentang Saya",
+        "description": "Kenali {name}, {role} dari {location}",
+        "intro": {
+            "title": "Pengantar",
+            "description": "Saya Nolep."
+        },
+        "work": {
+            "title": "Pengalaman Kerja",
+            "experiences": {
+                "FLY": {
+                    "timeframe": "2014 - Sekarang",
+                    "role": "Fans Emyu Berat",
+                    "achievements": "Mendesain ulang UI/UX untuk platform FLY, menghasilkan peningkatan keterlibatan pengguna sebesar 20% dan waktu muat lebih cepat sebesar 30%.;Memimpin integrasi alat AI ke dalam alur kerja desain, memungkinkan desainer untuk iterasi 50% lebih cepat."
+                },
+                "Creativ3": {
+                    "timeframe": "2018 - 2022",
+                    "role": "Desainer Utama",
+                    "achievements": "Mengembangkan sistem desain yang menyatukan merek di berbagai platform, meningkatkan konsistensi desain sebesar 40%.;Memimpin tim lintas fungsi untuk meluncurkan lini produk baru, berkontribusi pada peningkatan pendapatan perusahaan sebesar 15%."
+                }
+            }
+        },
+        "studies": {
+            "title": "Pendidikan",
+            "institutions": {
+                "SMPN 1 PANGKUR": {
+                    "description": "Belajar teknik perangkat lunak."
+                },
+                "Build the Future": {
+                    "description": "Belajar pemasaran online dan personal branding."
+                }
+            }
+        },
+        "technical": {
+            "title": "Kemampuan Teknis",
+            "skills": {
+                "Figma": {
+                    "description": "Opsss. I'm not an expert in figma, this was all designed by someone else."
+                },
+                "Nextjs": {
+                    "description": "Membangun aplikasi generasi berikutnya dengan Next.js + Once UI + Supabase."
+                }
+            }
+        }
+    },
+    "blog": {
+        "label": "Blog",
+        "title": "Menulis tentang desain dan teknologi...",
+        "description": "Baca apa yang {name} lakukan baru-baru ini"
+    },
+    "work": {
+        "label": "Karya",
+        "title": "Proyek Saya",
+        "description": "Proyek desain dan pengembangan oleh {name}"
+    },
+    "gallery": {
+        "label": "Galeri",
+        "title": "Galeri Foto Saya",
+        "description": "Koleksi foto oleh {name}"
+    },
+    "projectCard": {
+        "label": "Baca Studi Kasus"
+    }
+}
