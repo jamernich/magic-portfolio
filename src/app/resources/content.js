@@ -1,8 +1,8 @@
 import { InlineCode } from "@/once-ui/components";
 
 const person = {
-    firstName: 'Jamerski',
-    lastName:  'xcez',
+    firstName: 'Yuditya',
+    lastName:  'W',
     get name() {
         return `${this.firstName} ${this.lastName}`;
     },
@@ -24,22 +24,12 @@ const social = [
     {
         name: 'GitHub',
         icon: 'github',
-        link: 'https://github.com/once-ui-system/nextjs-starter',
-    },
-    {
-        name: 'LinkedIn',
-        icon: 'linkedin',
-        link: 'https://www.linkedin.com/company/once-ui/',
-    },
-    {
-        name: 'X',
-        icon: 'x',
-        link: '',
+        link: 'https://github.com/jamernich',
     },
     {
         name: 'Email',
         icon: 'email',
-        link: 'mailto:example@gmail.com',
+        link: 'kuronewhck@gmail.com',
     },
 ]
 
@@ -48,7 +38,7 @@ const home = {
     title: `${person.name}'s Portfolio`,
     description: `Portfolio website showcasing my work as a ${person.role}`,
     headline: <>Design engineer and builder</>,
-    subline: <>I'm Jamer, a design engineer at <InlineCode>WHITE HAT</InlineCode>, where I craft intuitive<br/> user experiences. After hours, I build my own projects.</>
+    subline: <>I'm Jamer, a design engineer at <InlineCode>GARUDA ANON SECURITY</InlineCode>, where I craft intuitive<br/> user experiences. After hours, I build my own projects.</>
 }
 
 const about = {
@@ -76,7 +66,7 @@ const about = {
         title: 'Work Experience',
         experiences: [
             {
-                company: 'WHITE HAT',
+                company: 'GANOSEC',
                 timeframe: '2022 - Present',
                 role: 'Beginner Design Engineer',
                 achievements: [
