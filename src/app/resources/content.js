@@ -1,4 +1,14 @@
-import { InlineCode } from "@/once-ui/components";
+<script type="text/javascript">
+	atOptions = {
+		'key' : '9671d63f87019ae8ce5b40a19ca70198',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/9671d63f87019ae8ce5b40a19ca70198/invoke.js"></script>
+    import { InlineCode } from "@/once-ui/components";
 
 const person = {
     firstName: 'Yuditya',
