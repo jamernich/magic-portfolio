@@ -3,8 +3,8 @@
     import { InlineCode } from "@/once-ui/components";
 
 const person = {
-    firstName: 'Yuditya',
-    lastName:  'W',
+    firstName: 'Jamerski',
+    lastName:  'Nickk',
     get name() {
         return `${this.firstName} ${this.lastName}`;
     },
@@ -68,7 +68,7 @@ const about = {
         title: 'Work Experience',
         experiences: [
             {
-                company: 'GANOSEC',
+                company: 'IMPHNEN',
                 timeframe: '2022 - Present',
                 role: 'Beginner Design Engineer',
                 achievements: [
@@ -102,7 +102,7 @@ const about = {
         institutions: [
             {
                 name: 'SMPN 1 PANGKUR',
-                description: <>Studied software engineering.</>,
+                description: <>Studied software developer.</>,
             },
             {
                 name: 'Build the Future',
